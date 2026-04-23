@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @shybu8
-- 👀 I’m interested in operation systems, language paradigms, developing any kind of projects, learning some hardware/low level essentials of computers
+- 👀 I’m interested in operating systems, language paradigms, developing any kind of projects, learning some hardware/low level essentials of computers
 - 🌱 I’m currently learning a lot of things
 
 // - 💞️ I’m looking to collaborate on ...
